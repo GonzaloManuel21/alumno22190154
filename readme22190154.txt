@@ -1,5 +1,2 @@
-gonzalo manuel lopez crisostomo 
-edad:21
-grupo:901
-Carrera:ING en desarrollo de sofware 
-lugar:villa allende.ver
+gonzalo manuel lopez crisostom
+modificado otra vez git add archivo_rama2gonzalo.txt
